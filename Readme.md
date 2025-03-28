@@ -10,7 +10,7 @@ As from the March 2024, the Download Size for this Repo is : **0 MB** ( Please N
 **+** __**Files and Folder Structure.**__
 
 **Images**
-All images in this repo are found and mined and are located are organized based on category ?.
+All images in this repo are found and mined and are located are organized based on category Backgrounds and More.
 
 
 ## __**Disclaimer**__
